@@ -2,4 +2,5 @@
 
 a=20
 b=12
-print(a*b)
+c=30
+print(a*b+c)
